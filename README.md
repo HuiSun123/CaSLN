@@ -23,6 +23,10 @@ Please refer to "https://github.com/dvlab-research/PFENet" for environment setup
 
     `sh test.sh`
 
+## Pre-train models
+
+Please download the pre-train models: https://pan.baidu.com/s/1wB0UYIJ0QG0io5fb_EJTFA?pwd=1234 
+Password：1234
 
 ### Train
 
@@ -34,4 +38,4 @@ Execute this command at the root directory:
 # Related Repositories
 
 This project is built upon PFNet: https://github.com/dvlab-research/PFENet. 
-Many thanks to the greak work!
+Many thanks to the great work!
